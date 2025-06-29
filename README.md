@@ -15,9 +15,9 @@ This project is a simple yet effective machine learning application to detect **
 ## 🚀 How to Run
 
   🔧 Step 1: Install Requirements
-   pip install -r requirements.txt
+   `pip install -r requirements.txt`
    Or install individually:
-   pip install streamlit pandas scikit-learn joblib
+   `pip install streamlit pandas scikit-learn joblib`
 
 
   
@@ -26,7 +26,4 @@ Already trained models are provided in the model/ folder.
 To retrain, use the provided Jupyter notebook or Python script.
 
 🖥️ Step 3: Run the Streamlit App
-bash
-Copy
-Edit
-streamlit run app.py
+`streamlit run app.py`
