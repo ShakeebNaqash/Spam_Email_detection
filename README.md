@@ -22,7 +22,7 @@ This dataset contains:
 - Two classes: `spam` and `ham`
 - Ideal for training spam detection models
 
-➡ Download it directly from Kaggle.
+ Download it directly from Kaggle.
 
 
 ##  How to Run
