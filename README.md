@@ -23,10 +23,11 @@ This project is a simple yet effective machine learning application to detect **
    `pip install streamlit pandas scikit-learn joblib`
 
 
-  
-  ▶️ Step 2: Train Model (Optional)
-Already trained models are provided in the model/ folder.
-To retrain, use the provided Jupyter notebook or Python script.
+   ▶️ Step 2: Train Model (Optional)
+   
+   Already trained models are provided in the model/ folder.
+   To retrain, use the provided Jupyter notebook or Python script.
 
-🖥️ Step 3: Run the Streamlit App
-`streamlit run app.py`
+   🖥️ Step 3: Run the Streamlit App
+  
+   `streamlit run app.py`
