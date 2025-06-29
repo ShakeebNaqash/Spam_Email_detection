@@ -13,10 +13,16 @@ This project is a simple yet effective machine learning application to detect **
 - 🌐 Interactive Streamlit App
 
 
-📂 Dataset
-This project uses the 190K Spam-Ham Email Dataset from Kaggle for training and evaluation.
+## 📊 Dataset
 
-You can download the dataset directly from Kaggle using the link above.
+We used the [190K Spam-Ham Email Dataset](https://www.kaggle.com/datasets/meruvulikith/190k-spam-ham-email-dataset-for-classification) available on Kaggle.
+
+This dataset contains:
+- 190,000 labeled email messages
+- Two classes: `spam` and `ham`
+- Ideal for training spam detection models
+
+➡️ Download it directly from Kaggle.
 
 
 ## 🚀 How to Run
