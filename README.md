@@ -15,8 +15,11 @@ This project is a simple yet effective machine learning application to detect **
 ## 🚀 How to Run
 
   🔧 Step 1: Install Requirements
+  
    `pip install -r requirements.txt`
-   Or install individually:
+   
+   Or install individually
+   
    `pip install streamlit pandas scikit-learn joblib`
 
 
