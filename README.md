@@ -44,3 +44,17 @@ This dataset contains:
    Step 3: Run the Streamlit App
   
    `streamlit run app.py`
+
+
+## Contributing
+Pull requests and suggestions are welcome!
+
+For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgements
+Inspired by classic spam datasets and NLP tutorials.
+
+Built using Streamlit, scikit-learn, and Pandas.
