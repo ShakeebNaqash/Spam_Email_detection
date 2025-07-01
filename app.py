@@ -21,5 +21,10 @@ if st.button("Detect"):
         prediction = model.predict(transformed_input)[0]
         
         label = "Spam" if prediction == 1 else "Ham"
+        
         st.subheader("Prediction:")
-        st.success(label)
+        if label == "Spam":
+            st.markdown(f"<h3 style='color:red;'> {label}</h3>", unsafe_allow_html=True)
+        else:
+            st.markdown(f"<h3 style='color:green;'> {label}</h3>", unsafe_allow_html=True)
+
